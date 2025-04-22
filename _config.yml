@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Gaohan Yu"
+title                    : "Gaohan Yu's personal page       "
 title_separator          : "-"
 name                     : &name "Gaohan Yu"
 description              : &description "personal description"
